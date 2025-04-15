@@ -122,10 +122,10 @@
 https://youtu.be/50hYxLyjVj8
 
 <h2 id="codigo1">Code Dashboard</h2>
-https://github.com/Geral-cp-s/CP5-Edge/blob/main/dashboard.txt
+https://github.com/gvqsilva/CP5-Edge/blob/main/dashboard.txt
 
 <h2 id="codigo2">Code Simulator</h2> 
-https://github.com/Geral-cp-s/CP5-Edge/blob/main/code.ino
+https://github.com/gvqsilva/CP5-Edge/blob/main/code.ino
 
 <h2 id="Simulador">Access to the Simulator</h2>
 https://wokwi.com/projects/410849473799433217
